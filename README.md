@@ -8,6 +8,8 @@ I'm 18 years old, I started programming 4 years ago. I'm also creating webdesign
 
 - HTML, CSS, Javascript
 - Next.js
+- Nest.js
+- Prisma
 - MYSQL
 - Python
 - Git, Github
